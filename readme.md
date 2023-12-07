@@ -1,1 +1,1 @@
-test
+I convert procederual code into OO style in every def (into method). But i got stuck in the result , my code work with just some number and it's random. It's still got some color for you to see but it's not like as expect.
